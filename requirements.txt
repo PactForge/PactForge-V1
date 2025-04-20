@@ -1,0 +1,8 @@
+Flask
+Flask-CORS
+python-docx
+chromadb
+google-genai==1.7.0
+google-api-core
+pdfminer.six
+gunicorn
